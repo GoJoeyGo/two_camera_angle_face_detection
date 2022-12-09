@@ -47,4 +47,5 @@ while True:
     if k==27:
         break
 # Release the VideoCapture object
-cap.release()
+cap1.release()
+cap2.release()
